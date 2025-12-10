@@ -66,3 +66,6 @@ Password Management: Performed a simulated password reset for one of the test ac
 Skills Demonstrated:
 
 <img width="682" height="264" alt="Image" src="https://github.com/user-attachments/assets/cb75bccc-a7f8-418b-bf05-9e8616359141" />
+
+**Visual Representation of HomeLab:**
+
