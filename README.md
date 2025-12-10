@@ -69,3 +69,17 @@ User Creation: Created test accounts (e.g., JSmith and ASmith) within the Teache
 
 **Visual Representation of HomeLab:**
 
+<img width="624" height="370" alt="Image" src="https://github.com/user-attachments/assets/2e68f977-6ccc-4826-ac14-c7d504e3349f" />
+
+
+**Walkthrough:**
+**Downloading Clients:**
+I downloaded VirtualBox 7.2.4 and the VirtualBox 7.2.4 Extension Pack using the following link: (https://www.virtualbox.org/wiki/Downloads)
+
+
+
+
+
+
+
+
