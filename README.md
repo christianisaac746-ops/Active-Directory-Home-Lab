@@ -74,8 +74,12 @@ User Creation: Created test accounts (e.g., JSmith and ASmith) within the Teache
 
 **Walkthrough:**
 **Downloading Clients:**
+
 I downloaded VirtualBox 7.2.4 and the VirtualBox 7.2.4 Extension Pack using the following link: (https://www.virtualbox.org/wiki/Downloads)
 
+<img width="608" height="389" alt="Image" src="https://github.com/user-attachments/assets/82341ac0-1095-422c-9586-4dec17c9731f" />
+
+I then downloaded a Windows 10 ISO here: (https://www.microsoft.com/en-us/software-download/windows10#d2784474-fdb0-4e9d-9e47-5e88c0e053ec)
 
 
 
