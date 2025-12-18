@@ -239,11 +239,16 @@ At this point my structures, and user logins indicate I setup everything correct
 
 <img width="634" height="545" alt="Image" src="https://github.com/user-attachments/assets/96f42bdc-729c-46c8-ba9d-5be6d1c41eda" />
 
-**Post-Lab Thoughts:**
 
 This project, originally designed by Josh Madakor, serves as a comprehensive lab for developing Active Directory skills tailored for corporate environments. The process also honed my diagnostic and troubleshooting capabilities through the resolution of real-world implementation hurdles.
 
 
+##  **Credits & Attributions**
+This lab was inspired by and follows the architectural framework designed by **Josh Madakor**. 
+
+* **Logic & Workflow:** Based on the "How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell" project. 
+
+While the foundational steps follow the guide above, all documentation, network troubleshooting (specifically the DHCP scope resolution), and environment configuration were performed independently by me.
 
 
 
